@@ -1,0 +1,1 @@
+INSERT INTO supervisor (IDFUNCIONARIO) VALUES ('21');
