@@ -1,0 +1,4 @@
+INSERT INTO funcionario (IDFUNCIONARIO, NOME_COMPLETO, CPF) VALUES ('41', 'Guilherme Araújo Lopes', '10293856744');
+INSERT INTO funcionario (IDFUNCIONARIO, NOME_COMPLETO, CPF) VALUES ('21', 'Andre Prado Oliveira', '12345678909');
+INSERT INTO funcionario (IDFUNCIONARIO, NOME_COMPLETO, CPF) VALUES ('23', 'Daniel Marculano Valadares', '67556701549');
+INSERT INTO funcionario (IDFUNCIONARIO, NOME_COMPLETO, CPF) VALUES ('22', 'João Victor de Alcantara', '14616380708');
